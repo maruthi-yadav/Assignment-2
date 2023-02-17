@@ -1,6 +1,6 @@
 
 /** @file factorial.cpp
-@author Lastname:Firstname:AGENT47:cscxxxxx
+@author Lastname:Firstname:MaruthiYadav:se20ucse095
 @version Revision 1.1
 @brief We use recursion method to find the factorial of a positive integer
 program file and the functions in that file.
