@@ -118,6 +118,7 @@ int main() {
         cout << "Factorial of " << n << " = " << factorial;    
     }
     return 0;
+    // hi maruthi yadav cse 095
 }
 
 
